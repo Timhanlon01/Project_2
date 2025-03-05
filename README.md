@@ -49,7 +49,7 @@ Future Work:
 2. Test the model on data from different seasons to assess its generalizability.
 3. Consider incorporating additional features that might influence Slugging Percentage.
 
-
+# ADD INFO ABOUT WHAT TYPE OF MACHINE LEARNING TECHNIQUE YOU USE AND WAS IT SUPERVISED OR UNSUPERVISED
 
 
 
